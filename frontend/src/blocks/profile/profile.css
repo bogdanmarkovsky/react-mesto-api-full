@@ -1,0 +1,27 @@
+.profile {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 19px;
+  margin-right: 19px;
+  padding-top: 42px;
+  flex-direction: column;
+  gap: 34px;
+}
+
+@media screen and (min-width: 768px) {
+  .profile  {
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-top: 40px;
+    flex-direction: row;
+    gap: 0;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .profile {
+    margin-left: 200px;
+    margin-right: 200px;
+  }
+}

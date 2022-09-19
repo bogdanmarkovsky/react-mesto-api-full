@@ -1,0 +1,26 @@
+.profile__add-photo-button {
+  padding: 0;
+  width: 148px;
+  height: 48px;
+  background-image: url(../../../images/add-icon.svg);
+  background-position: center;
+  background-repeat: no-repeat;
+  border: 1px solid #FFFFFF;
+  background-color: transparent;
+}
+
+.profile__add-photo-button:hover {
+  opacity: 0.6;
+  cursor: pointer;
+}
+
+.profile__add-photo-button:focus-visible {
+  outline: 0;
+}
+
+
+@media screen and (max-width: 767px) {
+  .profile__add-photo-button {
+    width: 280px;
+  }
+}

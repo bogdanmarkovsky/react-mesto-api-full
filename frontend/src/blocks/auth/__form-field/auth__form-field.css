@@ -1,0 +1,15 @@
+.auth__form-field {
+  max-width: 358px;
+  margin-top: 31px;
+  border-style: none;
+  border-bottom: 2px solid #cccccc;
+  padding-bottom: 6px;
+  font-size: 14px;
+  line-height: 17px;
+  background: none;
+  color: #cccccc;
+}
+
+.auth__form-input:focus {
+  outline: none;
+}

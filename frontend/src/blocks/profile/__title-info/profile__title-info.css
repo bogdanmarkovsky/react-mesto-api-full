@@ -1,0 +1,14 @@
+.profile__title-info {
+  display: flex;
+  align-items: baseline;
+  gap: 20px;
+  width: 100%;
+  justify-content: flex-start;
+}
+
+@media screen and (max-width: 767px) {
+  .profile__title-info {
+    justify-content: center;
+    gap: 10px;
+  }
+}

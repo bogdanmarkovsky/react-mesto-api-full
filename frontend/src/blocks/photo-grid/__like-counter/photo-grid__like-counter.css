@@ -1,0 +1,13 @@
+.photo-grid__like-counter {
+  width: 22px;
+  height: 13px;
+  color: #000000;
+  font-size: 13px;
+  line-height: 16px;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}

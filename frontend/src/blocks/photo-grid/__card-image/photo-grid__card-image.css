@@ -1,0 +1,10 @@
+.photo-grid__card-image {
+  width: 282px;
+  height: 282px;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+
+.photo-grid__card-image:hover {
+  cursor: pointer;
+}

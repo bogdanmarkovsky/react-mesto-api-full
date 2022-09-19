@@ -1,0 +1,7 @@
+.popup__container_card {
+  display: flex;
+  position: relative;
+  width: auto;
+  background-color: transparent;
+  border-radius: 0;
+}
