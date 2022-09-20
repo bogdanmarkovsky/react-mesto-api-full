@@ -1,5 +1,5 @@
 export const apiUtils = {
-  serverUrl: "http://localhost:3000",
+  serverUrl: "http://api.react-mesto.nomoredomains.sbs",
   headers: {
     "Accept": "application/json",
     "Content-Type": "application/json",
