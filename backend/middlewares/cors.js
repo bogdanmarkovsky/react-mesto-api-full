@@ -1,9 +1,7 @@
 const allowedCors = [
-  'localhost:3000',
-  'http://localhost:3000',
-  'https://localhost:3000',
-  'http://react-mesto.nomoredomains.sbs',
-  'https://react-mesto.nomoredomains.sbs',
+  'localhost:3001',
+  'http://localhost:3001',
+  'https://localhost:3001',
 ];
 
 const corsAllow = (req, res, next) => {
